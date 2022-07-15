@@ -12,7 +12,7 @@
 
 nav {
 width: 30%;
-margin: -530px; padding: 0;
+margin: -412px; padding: 0;
 float: left; margin-left: -32px
 }
 
@@ -42,7 +42,7 @@ color: black;
 **********************************************************************/
 .container {
 /*show heigh: auto*/
-height: 50vh; 
+height: 25vh; 
 display: flex;
 align-items: center;
 justify-content: right;
